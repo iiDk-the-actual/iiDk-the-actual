@@ -1,5 +1,5 @@
 <h1 align="center">hello, i am ii.</h1>  
-<h3 align="center">some guy on the internet</h3> 
+<h3 align="center">some 14yo guy on the internet</h3> 
 i do a lot of game modding when i get bored
 
 ---
