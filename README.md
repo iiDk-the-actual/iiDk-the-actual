@@ -1,8 +1,7 @@
 <h1 align="center">hello, i am ii.</h1>  
 <h3 align="center">some 14yo guy on the internet</h3> 
 i have done and participated in a lot of game modding for many of the games you love (some were bad i will admit):
-<a href="https://www.gorillatagvr.com">gorilla tag</a> | <a href="https://www.roblox.com/home">roblox</a> | <a href="https://gunraiders.com">gun raiders</a> | <a href="https://rec.net">rec room</a> | <a href="https://1v1.lol">1v1.lol</a> | <a href="https://www.roblox.com/home">roblox</a>
-
+<a href="https://www.gorillatagvr.com">gorilla tag</a> | <a href="https://www.roblox.com/home">roblox</a> | <a href="https://gunraiders.com">gun raiders</a> | <a href="https://rec.net">rec room</a> | <a href="https://1v1.lol">1v1.lol</a> | <a href="https://www.roblox.com/home">roblox</a><br>
 i really just like doing everything else but playing the game
 
 ---
