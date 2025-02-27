@@ -23,8 +23,8 @@ some of it was good. some of it was... questionable.</p>
 
 ---
 
-<h3 align="left">languages i mess with:</h3>  
-<p align="left">  
+<h3 align="center">languages i mess with:</h3>  
+<p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
   </a>  
