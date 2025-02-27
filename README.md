@@ -54,10 +54,10 @@ some of it was good. some of it was... questionable.</p>
 
 ---
 
-<p align="center>
+<p align="center">
   <img src="https://tenor.com/view/hyper-anime-lucky-star-izumi-konata-izumi-gif-20051187">
   <img src="https://tenor.com/view/avoiding-fennec-fast-gif-26563821">
   <img src="https://tenor.com/view/cat-cats-pet-cat-cat-pet-cute-cat-gif-24810247" alt="mee">
   <img src="https://tenor.com/view/happy-dog-walking-tippy-tappy-gif-16661940656628154559">
-  <img src="[https://tenor.com/view/happy-dog-walking-tippy-tappy-gif-16661940656628154559](https://tenor.com/view/gift-gif-17428766597160318005)" alt="sleepy boy">
+  <img src="https://tenor.com/view/gift-gif-17428766597160318005" alt="sleepy boy">
 </p>
