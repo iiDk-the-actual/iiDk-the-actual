@@ -1,6 +1,9 @@
 <h1 align="center">hello, i am ii.</h1>  
 <h3 align="center">some 14yo guy on the internet</h3> 
-i do a lot of game modding when i get bored
+i have done and participated in a lot of game modding for many of the games you love (some were bad i will admit):
+[gorilla tag](https://www.gorillatagvr.com) | [roblox](https://www.roblox.com/home) | [gun raiders](https://gunraiders.com) | [rec room](https://rec.net) | [1v1.lol](https://1v1.lol) | [roblox](https://www.roblox.com/home)
+
+i really just like doing everything else but playing the game
 
 ---
   
