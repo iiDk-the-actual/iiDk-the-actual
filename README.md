@@ -55,10 +55,10 @@ some of it was good. some of it was... questionable.</p>
 ---
 
 <p align="center">
-  <img src="hyper.gif">
-  <img src="fennec.gif">
-  <img src="pat.gif" alt="mee">
-  <img src="doggy.gif">
-  <img src="sleepy.gif" alt="sleepy boy">
+  <img src="hyper.gif" width="200">
+  <img src="fennec.gif" width="200">
+  <img src="pat.gif" alt="mee" width="200">
+  <img src="doggy.gif" width="200">
+  <img src="sleepy.gif" alt="sleepy boy" width="200">
 </p>
 
