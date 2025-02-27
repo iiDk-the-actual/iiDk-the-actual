@@ -16,19 +16,26 @@ some of it was good. some of it was... questionable.</p>
 
 ---
 
+<h3 align="center">my top projects:</h3>
+<p align="center">  
+  <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
+</p>  
+
+---
+
 <h3 align="left">languages i mess with:</h3>  
 <p align="left">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
   </a>  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
   </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
   </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
@@ -42,7 +49,8 @@ some of it was good. some of it was... questionable.</p>
 </p>  
 
 ---
-<h3 align="left">my github stats:</h3>
+
+<h3 align="center">my github stats:</h3>
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iidk-the-actual&show_icons=true&locale=en&layout=compact" alt="iidk-the-actual" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidk-the-actual&" alt="iidk-the-actual" />  
