@@ -60,6 +60,6 @@ some of it was good. some of it was... questionable.</p>
   <img src="pat.gif" alt="mee" width="200">
   <img src="doggy.gif" width="200">
   <img src="sleepy.gif" alt="sleepy boy" width="200">
-  <img src="silly.gif" alt="sleepy boy" width="200">
+  <img src="silly.gif" alt="silly" height="200">
 </p>
 
