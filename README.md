@@ -1,5 +1,5 @@
 <h1 align="center">hello, i am ii.</h1>  
-<h3 align="center">some 14yo guy who mods more than he plays</h3>  
+<h3 align="center">some 14yo guy on the internet!!</h3>  
 
 <p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work.  
 some of it was good. some of it was... questionable.</p>  
@@ -18,7 +18,7 @@ some of it was good. some of it was... questionable.</p>
 
 <h3 align="center">my top projects:</h3>
 <p align="center">  
-  <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
+  <a href="https://discord.gg/iidk">ii's stupid mods</a> | <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
 </p>  
 
 <h3 align="center">languages i mess with:</h3>  
@@ -60,5 +60,6 @@ some of it was good. some of it was... questionable.</p>
   <img src="pat.gif" alt="mee" width="200">
   <img src="doggy.gif" width="200">
   <img src="sleepy.gif" alt="sleepy boy" width="200">
+  <img src="silly.gif" alt="sleepy boy" width="200">
 </p>
 
