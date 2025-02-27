@@ -21,8 +21,6 @@ some of it was good. some of it was... questionable.</p>
   <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
 </p>  
 
----
-
 <h3 align="center">languages i mess with:</h3>  
 <p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
@@ -47,8 +45,6 @@ some of it was good. some of it was... questionable.</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   </a>  
 </p>  
-
----
 
 <h3 align="center">my github stats:</h3>
 <p align="center">  
