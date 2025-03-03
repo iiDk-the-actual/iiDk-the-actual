@@ -63,5 +63,6 @@ some of it was good. some of it was... questionable.</p>
   <img src="silly.gif" alt="silly" height="200">
   <img src="dance.gif" height="200">
   <img src="eat.gif" height="200">
+  <img src="hold.gif" height="200">
 </p>
 
