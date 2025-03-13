@@ -55,8 +55,8 @@ some of it was good. some of it was... questionable.</p>
 ---
 
 <p align="center">
-  <details open>
-    <summary>Hall of SILLY</summary>
+  <details>
+    <summary><h3>Hall of SILLY</h3></summary>
     <img src="hyper.gif" height="200">
     <img src="fennec.gif" height="200">
     <img src="pat.gif" alt="mee" height="200">
