@@ -55,25 +55,21 @@ some of it was good. some of it was... questionable.</p>
 ---
 
 <p align="center">
-  <details>
-    <summary><h3>Hall of SILLY</h3></summary>
-    <img src="hyper.gif" height="200">
-    <img src="fennec.gif" height="200">
-    <img src="pat.gif" alt="mee" height="200">
-    <img src="doggy.gif" height="200">
-    <img src="sleepy.gif" alt="sleepy boy" height="200">
-    <img src="silly.gif" alt="silly" height="200">
-    <img src="dance.gif" height="200">
-    <img src="eat.gif" height="200">
-    <img src="hold.gif" height="200">
-    <img src="milk.gif" height="200">
-    <img src="otter.gif" height="200">
-    <img src="airbiscuits.gif" height="200">
-    <img src="uhh.gif" height="200">
-    <img src="vro.gif" height="200">
-    <img src="tonguecat.gif" height="200">
-    <img src="dryer.gif" height="200">
-    <img src="dink.gif" height="200">
-  </details>
+  <img src="hyper.gif" height="100">
+  <img src="fennec.gif" height="100">
+  <img src="pat.gif" alt="mee" height="100">
+  <img src="doggy.gif" height="100">
+  <img src="sleepy.gif" alt="sleepy boy" height="100">
+  <img src="silly.gif" alt="silly" height="100">
+  <img src="dance.gif" height="100">
+  <img src="eat.gif" height="100">
+  <img src="hold.gif" height="100">
+  <img src="milk.gif" height="100">
+  <img src="otter.gif" height="100">
+  <img src="airbiscuits.gif" height="100">
+  <img src="uhh.gif" height="100">
+  <img src="vro.gif" height="100">
+  <img src="tonguecat.gif" height="100">
+  <img src="dryer.gif" height="100">
+  <img src="dink.gif" height="100">
 </p>
-
