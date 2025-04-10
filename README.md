@@ -48,8 +48,12 @@ some of it was good. some of it was... questionable.</p>
 
 <h3 align="center">my github stats:</h3>
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iidk-the-actual&show_icons=true&locale=en&layout=compact" alt="iidk-the-actual" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iidk-the-actual&" alt="iidk-the-actual" />  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iiDk-the-actual" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=2000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
+  </a>
 </p> 
 
 ---
