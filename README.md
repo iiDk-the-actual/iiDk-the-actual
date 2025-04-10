@@ -48,7 +48,7 @@ some of it was good. some of it was... questionable.</p>
 
 <h3 align="center">my github stats:</h3>
 <p align="center">  
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
