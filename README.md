@@ -52,7 +52,7 @@ some of it was good. some of it was... questionable.</p>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iiDk-the-actual" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=2000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
   </a>
 </p> 
 
