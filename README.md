@@ -1,4 +1,7 @@
-<img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/github%20title.png?raw=true" width=80% align="center"/>
+<p align="center">
+  <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/github%20title.png?raw=true" width="80%">
+</p>
+
 <h3 align="center">some 14yo guy on the internet</h3>  
 
 <p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work.  
