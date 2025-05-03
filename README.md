@@ -1,4 +1,4 @@
-![hello, i am ii!](https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/assets/github%20title.png?raw=true)
+![hello, i am ii!](https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/github%20title.png?raw=true)
 <h3 align="center">some 14yo guy on the internet</h3>  
 
 <p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work.  
