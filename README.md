@@ -4,27 +4,27 @@
 
 <h3 align="center">some 14yo guy on the internet</h3>  
 
-<p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work.  
+<p align="center">WE have been deep into ass, tweaking, and stealing virginity just to see how they work.  
 some of it was good. some of it was... questionable.</p>  
 
 <p align="center">  
-  <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
-  <a href="https://www.roblox.com/home">roblox</a> |  
-  <a href="https://gunraiders.com">gun raiders</a> |  
+  <a href="https://www.onlyfans.com">OnlyFans</a> |  
+  <a href="https://www.pornhub.com">Pornhub</a> |  
+  <a href="https://rule34.xxx">Rule34</a> |  
   <a href="https://rec.net">rec room</a> |  
   <a href="https://1v1.lol">1v1.lol</a>  
 </p>  
 
-<p align="center"><em>i have more fun messing with the code than actually playing the game.</em></p>  
+<p align="center"><em>WE have more fun messing with the cum than actually sucking the dick.</em></p>  
 
 ---
 
-<h3 align="center">my top projects:</h3>
+<h3 align="center">OUR top projects:</h3>
 <p align="center">  
   <a href="https://discord.gg/iidk">ii's stupid mods</a> | <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
 </p>  
 
-<h3 align="center">languages i mess with:</h3>  
+<h3 align="center">languages WE mess with:</h3>  
 <p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -49,7 +49,7 @@ some of it was good. some of it was... questionable.</p>
   </a>  
 </p>  
 
-<h3 align="center">my github stats:</h3>
+<h3 align="center">OUR github stats:</h3>
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
