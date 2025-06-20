@@ -57,6 +57,7 @@ some of it was good. some of it was... questionable.</p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iiDk-the-actual" />
   </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iiDk-the-actual" alt="GitHub Streak" /></a>
 </p> 
 
 ---
