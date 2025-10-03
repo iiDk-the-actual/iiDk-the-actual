@@ -9,6 +9,7 @@ some of it was good. some of it was... bad. very very bad. i bricked my grandma'
 
 <p align="center">  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
+  <a href="[https://www.gorillatagvr.com](https://store.steampowered.com/app/2767950/Capuchin/)">capuchin</a> |  
   <a href="https://www.roblox.com/home">roblox</a> |  
   <a href="https://gunraiders.com">gun raiders</a>
 </p>  
