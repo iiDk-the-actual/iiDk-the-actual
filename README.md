@@ -4,8 +4,8 @@
 
 <h3 align="center">some 14yo guy on the internet</h3>  
 
-<p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work.  
-some of it was good. some of it was... questionable.</p>  
+<p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work since i was little  
+some of it was good. some of it was... bad. very very bad. i bricked my grandma's pc</p>  
 
 <p align="center">  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
@@ -15,7 +15,7 @@ some of it was good. some of it was... questionable.</p>
   <a href="https://1v1.lol">1v1.lol</a>  
 </p>  
 
-<p align="center"><em>i have more fun messing with the code than actually playing the game.</em></p>  
+<p align="center"><em>i have fun messing with the code of games</em></p>  
 
 ---
 
