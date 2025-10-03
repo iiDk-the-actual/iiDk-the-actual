@@ -10,9 +10,7 @@ some of it was good. some of it was... bad. very very bad. i bricked my grandma'
 <p align="center">  
   <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
   <a href="https://www.roblox.com/home">roblox</a> |  
-  <a href="https://gunraiders.com">gun raiders</a> |  
-  <a href="https://rec.net">rec room</a> |  
-  <a href="https://1v1.lol">1v1.lol</a>  
+  <a href="https://gunraiders.com">gun raiders</a>
 </p>  
 
 <p align="center"><em>i have fun messing with the code of games</em></p>  
