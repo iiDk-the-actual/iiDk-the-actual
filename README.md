@@ -2,20 +2,9 @@
   <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/title2.png?raw=true" width="30%">
 </p>
 
-<h3 align="center">some 14yo guy on the internet</h3>  
-
-<p align="center">i've been deep into game modding, tweaking, and breaking things just to see how they work since i was little  
-some of it was good. some of it was... bad. very very bad. i bricked my grandma's pc</p>  
-
-<p align="center">  
-  <a href="https://www.gorillatagvr.com">gorilla tag</a> |  
-  <a href="[https://www.gorillatagvr.com](https://store.steampowered.com/app/2767950/Capuchin/)">capuchin</a> |  
-  <a href="https://www.roblox.com/home">roblox</a> |  
-  <a href="https://gunraiders.com">gun raiders</a>
-</p>  
-
-<p align="center"><em>i have fun messing with the code of games</em></p>  
-
+<p align="center">i am 14 years old and i program for fun<br>
+character in pfp: eilun. do not look them up the artist doesn't make good content. i stole it off of pinterest i swear<br>
+favorite game: [little kitty big city](https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/)<br></p>
 ---
 
 <h3 align="center">my top projects:</h3>
