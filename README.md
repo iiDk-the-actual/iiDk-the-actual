@@ -2,7 +2,8 @@
   <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/title2.png?raw=true" width="50%">
 </p>
 
-<p align="center">hiya, i am iidk, or crimson, or grayson or whatever<br>i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br>
+<h2 align="center>hiya!</h3>
+<p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br>
 character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city</a><br></p>
 
