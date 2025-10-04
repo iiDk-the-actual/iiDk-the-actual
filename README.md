@@ -44,9 +44,8 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iiDk-the-actual" alt="GitHub Streak" /></a>
 </p>
 
-<h3 align="center">support:</h3>
+<h3 align="center">support</h3>
 <p align="center">  
-  if you wish to support me, here are your methods of doing so:
   
   | Platform   | Link | Address |
   |------------|------|---------|
@@ -55,6 +54,7 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   | Ethereum   | [![ETH](https://img.shields.io/badge/Ethereum-Donate-blue?style=for-the-badge&logo=ethereum)](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) | [0xa1A78771422F602d9Ded0E8373d5A3D77E146877](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) |
   | Litecoin   | [![LTC](https://img.shields.io/badge/Litecoin-Donate-lightgrey?style=for-the-badge&logo=litecoin)](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) | [LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5](litecoin:LaoNB7KADaGGb5ik8RhEBhAFdhM9pu5se5) |
   | CashApp    | [![CashApp](https://img.shields.io/badge/CashApp-$iiWasHere-green?style=for-the-badge&logo=cashapp)](https://cash.app/$iiWasHere) | [$iiWasHere](https://cash.app/$iiWasHere) |
+  
 </p>
 
 ---
