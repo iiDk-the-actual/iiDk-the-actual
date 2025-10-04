@@ -2,8 +2,8 @@
   <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/title2.png?raw=true" width="50%">
 </p>
 
-<p align="center">i am 14 years old and i program for fun (and money? please donate to me)<br>
-character in pfp: eilun by zaaru. **do not look them or the artist up.**<br>
+<p align="center">i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br>
+character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city</a><br></p>
 
 ---
