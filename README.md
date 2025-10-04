@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">i am 14 years old and i program for fun<br>
-character in pfp: eilun. do not look them up<br>
+character in pfp: eilun by zaaru. do not look them or the artist up<br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city</a><br></p>
 
 ---
