@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/title2.png?raw=true" width="30%">
+  <img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/title2.png?raw=true" width="50%">
 </p>
 
 <p align="center">i am 14 years old and i program for fun<br>
@@ -8,12 +8,7 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 
 ---
 
-<h3 align="center">my top projects:</h3>
-<p align="center">  
-  <a href="https://discord.gg/iidk">ii's stupid mods</a> | <a href="https://github.com/iiDk-the-actual/iis.Stupid.Menu">ii's stupid menu</a> | <a href="https://github.com/iiDk-the-actual/FortniteEmoteWheel">fortnite emote wheel</a> | <a href="https://github.com/iiDk-the-actual/NameTags">name tags</a>
-</p>  
-
-<h3 align="center">languages i mess with:</h3>  
+<h3 align="center">programming languages</h3>  
 <p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -41,7 +36,7 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   </a>  
 </p>  
 
-<h3 align="center">my github stats:</h3>
+<h3 align="center">github stats</h3>
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
