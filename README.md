@@ -4,7 +4,8 @@
 
 <p align="center">i am 14 years old and i program for fun<br>
 character in pfp: eilun. do not look them up the artist doesn't make good content. i stole it off of pinterest i swear<br>
-favorite game: [little kitty big city](https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/)<br></p>
+favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city</a><br></p>
+
 ---
 
 <h3 align="center">my top projects:</h3>
