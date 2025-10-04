@@ -85,4 +85,6 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <img src="dink.gif" height="100">
 </p>
 
-<br><br>[PR and add more silly gifs](https://github.com/iiDk-the-actual/iiDk-the-actual/pulls)
+<p align="center">  
+<br><br><a href="https://github.com/iiDk-the-actual/iiDk-the-actual/pulls">make a pr and add more silly gifs!! i will accept literally everything</a>
+</p>
