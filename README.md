@@ -84,3 +84,5 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <img src="dryer.gif" height="100">
   <img src="dink.gif" height="100">
 </p>
+
+<br><br>[PR and add more silly gifs](https://github.com/iiDk-the-actual/iiDk-the-actual/pulls)
