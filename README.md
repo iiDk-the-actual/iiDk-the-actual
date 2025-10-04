@@ -7,7 +7,6 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 
 <details>
   <summary>programming languages</summary>
-<h3 align="center">programming languages</h3>  
 <p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
@@ -38,7 +37,6 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 
 <details>
   <summary>github stats</summary>
-<h3 align="center">github stats</h3>
 <p align="center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
@@ -50,7 +48,8 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 </p>
 </details>
 
-<h3 align="center">support</h3>
+<details open>
+  <summary>support</summary>
 <p align="center">  
   
   | Platform   | Link | Address |
@@ -62,6 +61,7 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   | CashApp    | [![CashApp](https://img.shields.io/badge/CashApp-$iiWasHere-green?style=for-the-badge&logo=cashapp)](https://cash.app/$iiWasHere) | [$iiWasHere](https://cash.app/$iiWasHere) |
   
 </p>
+</details>
 
 ---
 
