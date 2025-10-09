@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
 <p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br><br>
 character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
+github shadowban count: <b>1</b><br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
 
 ---
