@@ -1,14 +1,6 @@
 <h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br><br>
-character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
-days i've ever been banned from github: <b>2</b><br>
-favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
-
----
-
-<details>
-  <summary>programming languages</summary>
-<p align="center">  
+<p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 14 years old and i program for fun <i>(and money? please donate to me)</i><br>
+  <p align="center">  
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
   </a>  
@@ -33,8 +25,12 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   </a>  
-</p>  
-</details>
+</p><br><br>
+character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
+days i've ever been banned from github: <b>2</b><br>
+favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
+
+---
 
 <details>
   <summary>github stats</summary>
