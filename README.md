@@ -26,7 +26,7 @@
 </a>  
 <br><br>
 character in pfp: eilun by zaaru. <b>do not look them or the artist up.</b><br>
-days i've ever been banned from github: <b>2</b><br>
+services i've been falsely banned from: <b>5</b><br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
 
 ---
