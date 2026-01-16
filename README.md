@@ -83,6 +83,8 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
   <img src="Hotfrickendog.gif" height="100">
   <img src="sillycat.gif" height="100">
   <img src="caramelldansen-dance.gif" height="100">
+  <img src="NoRagebaitCat.gif" height="100">
+  <img src="FunneCar.gif" height="100">
 </p>
 
 <p align="center">  
