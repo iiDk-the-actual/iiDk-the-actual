@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">I am iidk, or crimson, or grayson or whatever<br>I am 15 years old and I program for fun <i>(and money? please donate to me)</i><br><br>
+<p align="center">i am iidk, or crimson, or grayson or whatever<br>i am 15 years old and i program for fun <i>(and money? please donate to me)</i><br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
 </a>  
