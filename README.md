@@ -34,12 +34,6 @@ favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_
 <details>
   <summary>github stats</summary>
 <p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iiDk-the-actual&layout=compact&langs_count=8" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=iiDk-the-actual" />
-  </a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iiDk-the-actual" alt="GitHub Streak" /></a>
 </p>
 </details>
