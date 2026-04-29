@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 </a>  
 <br><br>
-character in pfp: ichsan. https://www.instagram.com/ichisansfw/<br>
+character in pfp: ichisan. https://www.instagram.com/ichisansfw/<br>
 services i've been falsely banned from: <b>7</b><br>
 favorite game: <a href="https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/">little kitty big city<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
 
